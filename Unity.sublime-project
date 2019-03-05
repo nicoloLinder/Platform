@@ -1,0 +1,44 @@
+{
+  "folders":
+  [
+    {
+      "file_exclude_patterns":
+      [
+        "*.meta",
+        "*.csproj",
+        "*.booproj",
+        "*.unityproj",
+        "*.sln"
+      ],
+      "folder_exclude_patterns":
+      [
+        "Assets/Scripts"
+      ],
+      "folder_include_patterns":
+      [
+        "Assets",
+        "Assets/*"
+      ],
+      "path": "."
+    },
+    {
+      "folder_exclude_patterns":
+      [
+        "Editor"
+      ],
+      "file_exclude_patterns":
+      [
+        "*.meta"
+      ],
+      "path": "Assets/Scripts"
+    },
+    {
+      "file_exclude_patterns":
+      [
+        "*.meta"
+      ],
+      "path": "Assets/Scripts/Editor"
+    }
+  ],
+  "solution_file": "./Platformer.sln"
+}

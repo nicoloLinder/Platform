@@ -1,0 +1,1083 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TerrainGener",
+				"TerrainGenerator.Instance.tiles"
+			],
+			[
+				"down",
+				"down\tVector3.*"
+			],
+			[
+				"mapData",
+				"mapData.cellMap"
+			],
+			[
+				"Cellular",
+				"CellularAutomata.GenerateGroundMap\t(MapGenerator.cs)"
+			],
+			[
+				"GetGround",
+				"GetGroundMapValue\t(CellularAutomata.cs)"
+			],
+			[
+				"righ",
+				"right\tVector3.*"
+			],
+			[
+				"mapDa",
+				"mapData.groundMap\t(MapGenerator.cs)"
+			],
+			[
+				"mapD",
+				"mapData.cellMap"
+			],
+			[
+				"TextureGene",
+				"TextureGenerator.GenerateTexture\t(MapGenerator.cs)"
+			],
+			[
+				"maxSlope",
+				"maxSlopeHitRight"
+			],
+			[
+				"DElta",
+				"deltaTime"
+			],
+			[
+				"playerInpu",
+				"playerInput.y"
+			],
+			[
+				"maxSlopeHit",
+				"maxSlopeHitLeft"
+			],
+			[
+				"Phy",
+				"Physics2D\tCheckMethod.*"
+			],
+			[
+				"hideIn",
+				"hideInInspector\tHideFlags.*"
+			],
+			[
+				"OnJump",
+				"OnjumpInputDown\t(Player.cs)"
+			],
+			[
+				"SmoothDa",
+				"SmoothDamp"
+			],
+			[
+				"lookA",
+				"lookAheadDistanceX"
+			],
+			[
+				"lookAhea",
+				"lookAheadDistanceX"
+			],
+			[
+				"up",
+				"up\tVector3.*"
+			],
+			[
+				"forwa",
+				"forward\tVector3.*"
+			],
+			[
+				"focusAra",
+				"focusAreaSize"
+			],
+			[
+				"zero",
+				"zero\tVector2.*"
+			],
+			[
+				"Falling",
+				"ResetFallingThroughPlatform"
+			],
+			[
+				"minJu",
+				"minJumoHeight"
+			],
+			[
+				"wall",
+				"wallSliding"
+			],
+			[
+				"walls",
+				"wallSlideSpeedMax"
+			],
+			[
+				"clamp",
+				"clamp01\tMathf.*(value)"
+			],
+			[
+				"time",
+				"time.time\t[property]"
+			],
+			[
+				"percent",
+				"percentBetweenWaypoints"
+			],
+			[
+				"localWa",
+				"localWaypoints"
+			],
+			[
+				"Gizm",
+				"Gizmos.color\t[property]"
+			],
+			[
+				"Controller",
+				"Controller2D"
+			],
+			[
+				"passenger",
+				"passengerMovement"
+			],
+			[
+				"currentCoord",
+				"currentChunkCoordY"
+			],
+			[
+				"moved",
+				"movedPassangers"
+			],
+			[
+				"translate",
+				"Transform.Translate(translation, relativeTo)"
+			],
+			[
+				"numberOf",
+				"numberOfBullets"
+			],
+			[
+				"Particle",
+				"ParticleSystem\t[class]"
+			],
+			[
+				"deltaT",
+				"deltaTime\tTime.*"
+			],
+			[
+				"GameOb",
+				"GameObject\t[class]"
+			],
+			[
+				"Getmouse",
+				"GetMouseButton\tBaseInput.*(button)"
+			],
+			[
+				"mapDataRe",
+				"mapDataRecieved"
+			],
+			[
+				"Coordinate",
+				"Coordinates.up"
+			],
+			[
+				"timeTo",
+				"timeToWallUnstick"
+			],
+			[
+				"wallJ",
+				"wallJumpClimb"
+			],
+			[
+				"wallSli",
+				"wallSlideSpeedMax"
+			],
+			[
+				"Abs",
+				"Abs\tMathf.*(f)"
+			],
+			[
+				"accelerationTime",
+				"accelerationTimeAirborne"
+			],
+			[
+				"timeTopA",
+				"timeToJumpApex"
+			],
+			[
+				"horizontalSpa",
+				"horizontalRaySpacing"
+			],
+			[
+				"horizontalRa",
+				"horizontalRayCount"
+			],
+			[
+				"Horizont",
+				"Horizontal\tAxis.*"
+			],
+			[
+				"getAx",
+				"getAxisRaw\tInput.*(axisName)"
+			],
+			[
+				"physics2D",
+				"physics2D.Raycast\t*(origin, direction, distance, layerMask, minDepth, maxDepth)"
+			],
+			[
+				"Vect",
+				"Vector2"
+			],
+			[
+				"verticalRa",
+				"verticalRaySpacing"
+			],
+			[
+				"raycastOrigins",
+				"raycastOrigins.bottomLeft"
+			],
+			[
+				"skin",
+				"skinWidth"
+			],
+			[
+				"LogError",
+				"LogError\tDebug.*(message)"
+			],
+			[
+				"tileCoor",
+				"tileCoords.Y"
+			],
+			[
+				"tileCoords",
+				"tileCoords.X"
+			],
+			[
+				"chunkS",
+				"chunkSize"
+			],
+			[
+				"currentChu",
+				"currentChunk"
+			],
+			[
+				"currentC",
+				"currentChunkCoordX"
+			],
+			[
+				"dot",
+				"dot\tVector2.*(lhs, rhs)"
+			],
+			[
+				"Coord",
+				"Coordinates"
+			],
+			[
+				"currentChunk",
+				"currentChunkCoordX"
+			],
+			[
+				"chunksV",
+				"chunksVisibleInViewDistance"
+			],
+			[
+				"foder",
+				"folder_exclude_patterns"
+			],
+			[
+				"RoundTo",
+				"RoundToInt\tMathf.*(f)"
+			],
+			[
+				"roundToInt",
+				"roundToInt\tVector2Int.*(v)"
+			],
+			[
+				"maxCollider",
+				"maxColliderDistace"
+			],
+			[
+				"delta",
+				"deltaTime\tAccelerationEvent.*"
+			],
+			[
+				"GetTerrain",
+				"GetTerrainChunk"
+			],
+			[
+				"chunks",
+				"chunkSize\tTilemapRenderer.*"
+			],
+			[
+				"mosueP",
+				"mousePosition\tInput.*"
+			],
+			[
+				"getmouse",
+				"getMouseButtonDown\tInput.*(button)"
+			],
+			[
+				"Rigid",
+				"Rigidbody\t[class]"
+			],
+			[
+				"OnCollisionEnter",
+				"OnCollisionEnter2D\tMonoBehaviour.*(other)"
+			],
+			[
+				"height",
+				"height\tScreen.*"
+			],
+			[
+				"width",
+				"width\tScreen.*"
+			],
+			[
+				"maxCollide",
+				"maxCollideDistance"
+			],
+			[
+				"viewer",
+				"viewerPosition"
+			],
+			[
+				"OnColliion",
+				"OnCollisionEnter\tMonoBehaviour.*(collisionInfo)"
+			],
+			[
+				"BoxCollide",
+				"BoxCollider2D\t[class]"
+			],
+			[
+				"one",
+				"one\tVector3.*"
+			],
+			[
+				"vertex",
+				"vertexIndexB"
+			],
+			[
+				"AddTriangle",
+				"AddtriangleToDictionary"
+			],
+			[
+				"vertexIndex",
+				"vertexIndexKey"
+			],
+			[
+				"nodeCo",
+				"nodeCountX"
+			],
+			[
+				"main",
+				"main\tCamera.*"
+			],
+			[
+				"vector",
+				"vector3\t[class]"
+			],
+			[
+				"ScaleMa",
+				"ScaleCellMap"
+			],
+			[
+				"terrainChunk",
+				"terrainChunkKey"
+			],
+			[
+				"MapDataThrea",
+				"mapDataThreadInfoQueue"
+			],
+			[
+				"terrainChun",
+				"terrainChunksVisibleLastUpdate"
+			],
+			[
+				"viwed",
+				"viewedChunkCoord"
+			],
+			[
+				"terrainCh",
+				"terrainChunkDictionary"
+			],
+			[
+				"sqr",
+				"sqrDistance\tBounds.*(point)"
+			],
+			[
+				"CreatePrimitive",
+				"CreatePrimitive\tGameObject.*(type)"
+			],
+			[
+				"currentChun",
+				"currentChunkCoordX"
+			],
+			[
+				"round",
+				"roundToInt\tMathf.*(f)"
+			],
+			[
+				"vector2",
+				"vector2\t[class]"
+			],
+			[
+				"KeyCode",
+				"KeyCode.U\t[property]"
+			],
+			[
+				"Log",
+				"Log\tDebug.*(message)"
+			],
+			[
+				"foreach",
+				"foreach\tForEach"
+			],
+			[
+				"sta",
+				"state\tRandom.*"
+			],
+			[
+				"total",
+				"totalHp"
+			],
+			[
+				"IdleState",
+				"IdleStateID"
+			],
+			[
+				"orthogra",
+				"orthographicSize\tCamera.*"
+			],
+			[
+				"scale",
+				"scaleFactor"
+			],
+			[
+				"p",
+				"po\tprotected"
+			],
+			[
+				"pr",
+				"protected"
+			],
+			[
+				"finger",
+				"fingerPosition"
+			],
+			[
+				"UNITY",
+				"UNITY_ANDROID"
+			],
+			[
+				"Plane",
+				"Plane\t*(inNormal, inPoint)"
+			],
+			[
+				"fovAgleOff",
+				"fovAngleOffsetRange"
+			],
+			[
+				"fovAngle",
+				"fovAngleOffset"
+			],
+			[
+				"fovangle",
+				"fovAngleOffset"
+			],
+			[
+				"fovAnge",
+				"fovAngleOffset"
+			],
+			[
+				"TEX",
+				"TEXCOORD2"
+			],
+			[
+				"TEXCoo",
+				"TEXCOORD0\tcontext"
+			],
+			[
+				"DecodeFloa",
+				"DecodeFloatRG\tbuiltin-function"
+			],
+			[
+				"_Globa",
+				"_GlobalVisibility\tcontext"
+			],
+			[
+				"_Global",
+				"_GlobalRefractionMag\tcontext"
+			],
+			[
+				"HideIn",
+				"HideInInspector\t[class]"
+			],
+			[
+				"TEXC",
+				"TEXCOORD0"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 252.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"package control",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable pag",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: MonoBehaviour"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"material",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"ma",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"materia",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"materialize",
+				"Activate Materialize Theme"
+			],
+			[
+				"pacla",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 648.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Platformer",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Weapons",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Editor"
+	],
+	"file_history":
+	[
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Platformer/RaycastController.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/CellularAutomata.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Platformer/CameraFollow.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Weapons/Projectile.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Platformer/Player.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Weapons/WeaponManager.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Platformer/PlayerInput.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/MapGenerator.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/MapDisplay.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/TextureGenerator.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Editor/TerrainGeneratorEditor.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Chunk.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/TerrainGenerator.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/.InfiniteTerrain.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Platformer/Controller2D.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Platformer/PlatformController.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Weapons/BaseWeapon.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/CameraShake.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Tile.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/DebugConsole.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/MovePlayer.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Weapons/SpreadWeapon.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Weapons/Weapon.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Weapons/DestroyWeapon.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Weapons/ProjectileShootTriggerable.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Weapons/ProjectileWeapon.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Coordinates.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Platformer/BaseWeapon.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Bullet.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Editor/InfiniteTerrainEditor.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Coordinate.cs",
+		"/Users/nicololinder/Library/Application Support/Sublime Text 3/Packages/UnitySnippets/TransformObject.sublime-snippet",
+		"/Users/nicololinder/Library/Application Support/Sublime Text 3/Packages/User/MonoBehaviour.sublime-snippet",
+		"/Users/nicololinder/Library/Application Support/Sublime Text 3/Packages/Unity3DReference/Default (OSX).sublime-settings",
+		"/Users/nicololinder/Library/Application Support/Sublime Text 3/Packages/Unity3DReference/Default.sublime-keymap",
+		"/Users/nicololinder/Library/Application Support/Sublime Text 3/Packages/Unity3DReference/README.md",
+		"/Users/nicololinder/Library/Application Support/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/Users/nicololinder/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-keymap",
+		"/Users/nicololinder/Library/Application Support/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Unity.sublime-project",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/InfiniteTerrain.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/VectorInt3.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/ClickInput.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/DynamicScale.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/MeshGenerator.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Editor/MapGeneratorEditor.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/n.java",
+		"/Users/nicololinder/Library/Application Support/Sublime Text 3/Packages/User/h.java",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/nicolo.java",
+		"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts/Display.cs",
+		"/Users/nicololinder/WorkSpaces/HipstApocalypse/HipstApocalypse/Assets/Scripts/Player/Player.cs",
+		"/Users/nicololinder/WorkSpaces/HipstApocalypse/HipstApocalypse/Assets/Scripts/Enemy/FSMSystem.cs",
+		"/Users/nicololinder/WorkSpaces/HipstApocalypse/HipstApocalypse/Assets/Scripts/Enemy/EntityBase.cs",
+		"/Users/nicololinder/WorkSpaces/HipstApocalypse/HipstApocalypse/Assets/Scripts/Enemy/EntityState.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Template/Assets/Scripts/Utilities/Template.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Gravity/Assets/Scripts/InputManager.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Gravity/Assets/Scripts/GravityBody.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Gravity/Assets/Scripts/GravityBodyManager.cs",
+		"/Users/nicololinder/WorkSpaces/Java/Watercolor/src/main/Main.java",
+		"/Users/nicololinder/WorkSpaces/Java/Watercolor/src/main/Vector2D.java",
+		"/Users/nicololinder/WorkSpaces/Java/Watercolor/src/main/Polygon.java",
+		"/Users/nicololinder/WorkSpaces/Java/Watercolor/src/main/main/Polygon.java",
+		"/Users/nicololinder/WorkSpaces/Java/Watercolor/src/main/main/Main.java",
+		"/Users/nicololinder/WorkSpaces/Java/Watercolor/src/main/main/Vector2D.java",
+		"/Users/nicololinder/WorkSpaces/Java/JavartTest/src/javart/simple/demo/Main.java",
+		"/Users/nicololinder/WorkSpaces/Java/WaterColor/WaterColor.java",
+		"/Users/nicololinder/WorkSpaces/Java/WaterColor/Vector2D.java",
+		"/Users/nicololinder/WorkSpaces/HipstApocalypse/HipstApocalypse/Assets/Scripts/Enemy/Enemy.cs",
+		"/Users/nicololinder/WorkSpaces/C/Raycast/quickcg.h",
+		"/Users/nicololinder/WorkSpaces/C/Raycast/quickcg.cpp",
+		"/Users/nicololinder/WorkSpaces/C/Raycast/prender.c",
+		"/Users/nicololinder/WorkSpaces/C/Raycast/raycaster_flat.cpp",
+		"/Users/nicololinder/WorkSpaces/C/Raycast/QuickCG.cpp",
+		"/Users/nicololinder/.ssh/id_rsa.pub",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/Utilities/InputManager.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/Effects/ImageEffect.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/Effects/CRTDiffuse.shader",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/Effects/GlitchShader.shader",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/Effects/GlitchEffect.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Player/Player.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Managers/UIContainer/LevelUIContainer.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Prefabs/PickUpObj.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Prefabs/PickUpWeapon.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Enemy/Enemy.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Enemy/Enemy_Test.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Prefabs/MainWeapon.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Prefabs/Special.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Managers/WeaponManager.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Managers/UIContainer/LevelUIContainer_Test.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Managers/EnemyManager.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Managers/GameState.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Managers/InputManager.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Managers/UIManager.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Managers/EnemyManager_Test.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Enemy/_Enemy.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/Utilities/Utilites.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/Entities/Entity.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/Physics/GravityBody.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/GameManager.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/Entities/Player.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/Entities/Enemy.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/Entities/Projectile.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/LevelManager.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Shaders/Wireframe.shader",
+		"/Users/nicololinder/WorkSpaces/Unity/PlanetShooty/Assets/Scripts/Entities/LevelManager.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Player/Player_Test.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Enemy/NewEnemy.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/HipstApocalypse/Assets/Scripts/Enemy/NewEnemySpawner.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/ProjectLoading/Assets/Scripts/Utilities/FSM/FSMSystem.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/ProjectLoading/Assets/Scripts/Utilities/FSM/EditLevelStateManager.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Cave Project/Assets/Scripts/WorldGenerator.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Cave Project/Assets/Scripts/PerlinNoise.cs",
+		"/Users/nicololinder/Desktop/PerlinNoise.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Scripts/ScannerEffect.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Shaders/ScanLine.shader",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Scripts/Spelunky.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Shaders/Refraction.shader",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Scripts/ReplacementShaderEffect.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Scripts/ScreenSpaceRefractions.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Shaders/XRay.shader",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Shaders/ShowDepth.shader",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Shaders/height.shader",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Shaders/OverDraw",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Shaders/normal.shader",
+		"/Users/nicololinder/WorkSpaces/Unity/Serenity/Assets/Scripts/Draw.cs",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Shaders/base.shader",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Shaders/CustomImageEffect.shader",
+		"/Users/nicololinder/WorkSpaces/Unity/Shader/Assets/Scripts/CustomImageEffects.cs"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/Users/nicololinder/WorkSpaces/Unity/Platform/Assets/Scripts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"if(configuration == 15) {\n\t\t\ttemp.transform.localScale = new Vector3(Mathf.Sign(Random.Range(-1,2)), Mathf.Sign(Random.Range(-1,2)),1);\n\t\t}",
+			"terrainChunkDictionary",
+			"Random.Range(-1,2)",
+			"localSize",
+			"readonly",
+			"continue;",
+			"_mapData",
+			")));;",
+			"coords",
+			"chunkDictionary(c",
+			"chunkDictionary",
+			"chunkDictionary.Add",
+			"chunkDictionary",
+			"OnMap",
+			"OnMapDataRecieved",
+			"+ 1;",
+			"flatMap",
+			"GetFlatMap",
+			"if(y == 0) {",
+			"getLength",
+			"flat",
+			"lookAheadStopped",
+			"}\n",
+			";\n",
+			"player",
+			"RaycastHit",
+			");\n",
+			";\n",
+			"maxDescendAngle",
+			"maxClimbAngle",
+			"* rayLength",
+			"velocity",
+			"Vector3",
+			"BaseInput",
+			"input",
+			"focusPoisition",
+			"focusPosition",
+			"focusPoisition",
+			"playerInput",
+			"mousePosition",
+			"Input.mousePosition.x",
+			"center",
+			"shiftX",
+			"shiftY",
+			"shiftX",
+			"x <",
+			"x",
+			"shiftX",
+			"size",
+			"if(hit)",
+			"jumpVelocity",
+			"jumpHeight",
+			";\n",
+			"PassengerMovement",
+			"PassangerMovement",
+			"right",
+			"up",
+			"moveBefore",
+			"FloorToInt",
+			"RoundToInt",
+			"MovePassangers",
+			"void Update()",
+			"void Upate()",
+			"void Upate() {",
+			"protected",
+			"SpreadShoot",
+			"override",
+			"shootDirection",
+			"BuildWeapon",
+			";\n",
+			"launcher",
+			"Trigger",
+			"direction",
+			"Ability",
+			".*f",
+			"80",
+			"configuration",
+			"== ",
+			"coords1",
+			"!= null",
+			"&&",
+			" &&",
+			"up",
+			"4",
+			"MapDataRecieved",
+			"!= null",
+			"TerrainGenerator",
+			"tile",
+			"chunkSize",
+			"chunk =",
+			"if(chunk != null){\n\t\t\t\t\tchunk.AddTile(new Coordinates(0, coords.Y));\n\t\t\t\t}",
+			"GetTileValue",
+			"getTileValue",
+			"checkDiagonal",
+			"Vector2",
+			"faceDir",
+			"Mathf.Sign(velocity.x)",
+			"Mathf.Sign (velocity.x)",
+			"faceDirection",
+			";\n",
+			"cameraContainer",
+			"50",
+			";\n",
+			"public",
+			"collisions",
+			"collsiions",
+			"controller2D",
+			";\n",
+			"VerticalCollisions",
+			"directionY",
+			"rayCastOrigins",
+			"horizontalRayCount",
+			"\tfloat horizontalRaySpacing;\n",
+			";\n",
+			"min",
+			"Tile.ParentChunk",
+			"Tile",
+			"RemoveComponet",
+			"tile.Coords",
+			"int",
+			");\n",
+			";\n",
+			"GetChunk",
+			"GetTile",
+			"mapDataRecieved",
+			"spritesGenerated",
+			";\n",
+			"Object"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"coords.Y",
+			"coords.X",
+			"coords.Y",
+			"coords.X",
+			"coords.x",
+			"coords",
+			"coords.X",
+			"coord.X",
+			"Coordinates"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 54.0
+	},
+	"output.find_results":
+	{
+		"height": 490.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Unity.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
